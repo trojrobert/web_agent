@@ -1,0 +1,22 @@
+[project]
+name = "web-agent"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "John Robert"}
+]
+readme = "README.md"
+requires-python = "3.12.5"
+dependencies = [
+    "autogen-agentchat (>=0.4.3,<0.5.0)",
+    "autogen-ext (>=0.4.3,<0.5.0)",
+    "pyautogen (>=0.7.2,<0.8.0)",
+    "aiofiles (>=24.1.0,<25.0.0)",
+    "playwright (>=1.49.1,<2.0.0)",
+    "streamlit (>=1.41.1,<2.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
