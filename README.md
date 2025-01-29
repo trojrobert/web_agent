@@ -2,7 +2,7 @@
 
 Welcome to the **Web AI Agent** repository! This project showcases an AI-powered web agent capable of operating a computer by autonomously opening a web browser, searching for information online, and summarizing the results. The project combines advanced AI frameworks and user-friendly frontend design to deliver an interactive experience.
 
-![Banner](assets/banner.png)
+![Banner](assets/image.png)
 ---
 
 ## Key Features
